@@ -1,0 +1,17 @@
+.contenedor{
+    width: 80px;
+    height: 80px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKMorPgphCP0kCEGudul9R9wGuzs42Gup11EsvOrirKXepwJemdPdMGOcoYx_lyc0VpU&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 3px;
+}
+
+.img{
+    width: 80px;
+    height: 80px;
+    backdrop-filter: blur(2px);
+    border-radius: 10px;
+}
